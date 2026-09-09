@@ -35,7 +35,8 @@ The complete dataset (100 input images + sample outputs from all filters) is ava
 | Original | Oil Paint | Pencil Sketch | Cartoon | Vintage |
 |----------|-----------|---------------|---------|---------|
 | ![original]<img width="557" height="452" alt="image" src="https://github.com/user-attachments/assets/4b90ba68-a515-4177-b7b3-e0272a9f66dd" />
- | ![oilpaint](output_oilpaint/output_000.png) | ![sketch]<img width="533" height="425" alt="image" src="https://github.com/user-attachments/assets/9438f71a-a7e3-40d0-ad80-8f3b5118a095" />
+ | ![oilpaint]<img width="495" height="390" alt="image" src="https://github.com/user-attachments/assets/9b6f404f-dc4a-4704-a9ac-5fecf93ee320" />
+ | ![sketch]<img width="533" height="425" alt="image" src="https://github.com/user-attachments/assets/9438f71a-a7e3-40d0-ad80-8f3b5118a095" />
  | ![cartoon]<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/42eff79e-c099-47fa-928b-70ad501dd09b" />
  | ![vintage]<img width="561" height="445" alt="image" src="https://github.com/user-attachments/assets/06b5a38e-d4b8-4db0-b604-65297f363806" />
 
